@@ -1,0 +1,22 @@
+{
+  "name": "TestingForPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestingForPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tanejasarthak138@gmail.com/TestingForPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tanejasarthak138@gmail.com": "sarthak.taneja@etmoney.com"
+  },
+  "source": {
+    "git": "https://github.com/tanejasarthak138@gmail.com/TestingForPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestingForPod/Classes/**/*"
+}
