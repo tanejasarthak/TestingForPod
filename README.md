@@ -22,7 +22,7 @@ pod 'TestingForPod'
 
 ## Author
 
-tanejasarthak138@gmail.com, sarthak.taneja@etmoney.com
+tanejasarthak138@gmail.com
 
 ## License
 
